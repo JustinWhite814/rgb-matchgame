@@ -13,8 +13,10 @@
 * Use your code editor to go live or run a live server
 
 ## Screen shots
-![RGB Easy](./screenshots/RBG%20BB(Easy).png)
+![RGB Easy](./screenshots/RGB%20GG(Easy).png)
+<br>
 ![RBG Hard](./screenshots/RGB%20GG(Hard).png)
+<br>
 ![RBG WIN](./screenshots/RBG%20BB(Beat).png)
 
 ## Minimun Viable Product
