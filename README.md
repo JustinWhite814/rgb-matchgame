@@ -1,5 +1,7 @@
 # RGB-matchgame
 
+<img src='https://i0.wp.com/www.cutertudor.com/wp-content/uploads/2021/11/homemadepotpourri5.jpg?resize=1024%2C576&ssl=1' width='100%'>
+<br />
 ## Description
 
 > Welcome to the RGB Guessing Game! The Goal of the game is to guess the correct color. You'll be presented with a random generated color based on an rbg sequence and your job is to click the color that matches that sequence. Guessing incorrectly will result in the 'clicked' color block disappearing. Good Luck! 
