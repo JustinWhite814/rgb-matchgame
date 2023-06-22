@@ -1,6 +1,6 @@
 # RGB-matchgame
 
-<img src='./screenshots/RGB%20Image.jpeg' width='100%'>
+<img src='./screenshots/RGB%20Image.png' width='100%'>
 <br />
 
 ## Description
