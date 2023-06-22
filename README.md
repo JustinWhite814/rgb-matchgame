@@ -14,9 +14,9 @@
 
 ## Screen shots
 ![RGB Easy](./screenshots/RGB%20GG(Easy).png)
-<br>
+<br/>
 ![RBG Hard](./screenshots/RGB%20GG(Hard).png)
-<br>
+<br/>
 ![RBG WIN](./screenshots/RBG%20BB(Beat).png)
 
 ## Minimun Viable Product
