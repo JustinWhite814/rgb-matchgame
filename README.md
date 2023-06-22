@@ -1,4 +1,4 @@
-# RGB-matchgame
+# RGB Matchgame
 
 <img src='./screenshots/RGB%20Image.png' width='100%'>
 <br />
