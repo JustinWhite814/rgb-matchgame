@@ -1,6 +1,6 @@
 # RGB-matchgame
 
-<img src='https://i0.wp.com/www.cutertudor.com/wp-content/uploads/2021/11/homemadepotpourri5.jpg?resize=1024%2C576&ssl=1' width='100%'>
+<img src='./screenshots/RGB%20Image.jpeg' width='100%'>
 <br />
 ## Description
 
