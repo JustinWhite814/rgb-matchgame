@@ -32,9 +32,15 @@
 * Display a 'play again' button upon winning
 
 ## User Stories
-As a user I want to be able to test my knowledge of RGB
-As a user I want to win at any cost
-As a user I want to click on a color and see the screen change on win
-
+- As a user I want to be able to test my knowledge of RGB
+- As a user I want to win at any cost
+- As a user I want to click on a color and see the screen change on win
+  
+## Technologies Used:
+* HTML
+* CSS
+* JavaScript
+* jQuery
+  
 ## Stretch Goals
 - Add even harder mode that uses 9 blocks
